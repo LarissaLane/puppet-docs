@@ -1,23 +1,23 @@
 ---
 layout: default
-title: "PE 3.2 » Index"
-subtitle: "Puppet Enterprise User's Guide"
+title: "PE 3.2 » Главная страница"
+subtitle: "Руководство пользователя Puppet Enterprise"
 canonical: "/pe/latest/index.html"
 ---
 
 
-Welcome! This is the user's guide for Puppet Enterprise 3.2.3.
+Добро пожаловать! Это руководство пользователя для Puppet Enterprise 3.2.3.
 
 
-* If you are new to Puppet Enterprise, begin with the [quick start guide](./quick_start.html) to create a small proof-of-concept deployment and experience the core Puppet Enterprise tools and workflows. This guided walkthrough will take approximately 30-60 minutes.
-* To install Puppet Enterprise, see the following pages:
-    * [System Requirements](./install_system_requirements.html)
-    * [Installing PE](./install_basic.html)
-    * [Installing Windows Agents](./install_windows.html)
-    * [Puppet Enterprise Downloads](http://info.puppetlabs.com/download-pe.html)
-* To see what's new since the last release, see [New Features](./overview_whats_new.html).
-* The [Deployment Guide](../../guides/deployment_guide/index.html) has a ton of information to help you set up and deploy Puppet Enterprise in accordance with the best practices and methods used by Puppet Labs' professional services engineers.
+* Если вы ранее не работали с Puppet Enterprise, начните с [быстрого введения](./quick_start.html), чтобы создать небольшую систему и поработать с главными инструментами и процессами Puppet Enterprise. Это займет у вас от 30 до 60 минут.
+* Для установки Puppet Enterprise, просмотрите следующие страницы:
+    * [Требования к системе](./install_system_requirements.html)
+    * [Установка PE](./install_basic.html)
+    * [Установка агентов под Windows](./install_windows.html)
+    * [Скачивание Puppet Enterprise](http://info.puppetlabs.com/download-pe.html)
+* Чтобы узнать, что нового появилось в последней версии, просмотрите [Новые Возможности](./overview_whats_new.html).
+* [Инструкция по развертыванию](../../guides/deployment_guide/index.html) даст вам большой объем информации по вопросам настройки и развертывания Puppet Enterprise. Там описаны лучшие методы, которые используются сервисными инженерами Puppet Labs.
 
-Otherwise, use the **navigation to the left** to move between this guide's sections and chapters.
+В противном случае используйте **меню слева** чтобы перемещаться между разделами и главами данного руководства.
 
-If you are using an older version of Puppet Enterprise, you can find [documentation for previous versions here](http://docs.puppetlabs.com/pe/index.html).
+Если вы используете более старую Puppet Enterprise, вы можете прочитать [документацию по более старым версиям](http://docs.puppetlabs.com/pe/index.html).
